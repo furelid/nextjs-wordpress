@@ -23,7 +23,7 @@
     "graphql": "^16.6.0",
     "html-react-parser": "^3.0.4",
     "isomorphic-dompurify": "^0.23.0",
-    "next": "^13.0.0",
+    "next": "^15.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -33,7 +33,7 @@
     "eslint-config-custom": "*",
     "prettier-config-custom": "*",
     "rimraf": "^3.0.2",
-    "sharp": "^0.31.1",
+    "sharp": "^0.33.5",
     "tsconfig": "*",
     "typescript": "^4.8.4"
   }
